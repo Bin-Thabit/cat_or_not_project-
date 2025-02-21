@@ -6,7 +6,6 @@ This project classifies images based on whether they contain a cat or not. The c
 ## Features
 - Uses one-hot encoding for categorical features (Ear Shape, Face Shape, Whiskers)
 - Implements decision trees with information gain for classification
-- Provides visualizations to aid in understanding model decisions
 
 ## Installation
 To run this project locally, follow these steps:
